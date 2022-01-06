@@ -9,6 +9,7 @@
     "install": "cd server && npm i && cd ../client && npm i",
     "seed": "cd server && npm run seed",
     "build": "cd client && npm run build"
+    
   },
   "keywords": [],
   "author": "",
@@ -23,9 +24,5 @@
   "bugs": {
     "url": "https://github.com/Brookethorson/redux-store/issues"
   },
-  "homepage": "https://github.com/Brookethorson/redux-store#readme",
-  "dependencies": {
-    "@apollo/react-hooks": "^4.0.0",
-    "graphql-tag": "^2.12.6"
-  }
+  "homepage": "https://github.com/Brookethorson/redux-store#readme"
 }
