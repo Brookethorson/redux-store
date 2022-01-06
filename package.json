@@ -15,5 +15,17 @@
   "license": "ISC",
   "devDependencies": {
     "concurrently": "^5.1.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Brookethorson/redux-store.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Brookethorson/redux-store/issues"
+  },
+  "homepage": "https://github.com/Brookethorson/redux-store#readme",
+  "dependencies": {
+    "@apollo/react-hooks": "^4.0.0",
+    "graphql-tag": "^2.12.6"
   }
 }
