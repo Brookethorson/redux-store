@@ -9,7 +9,6 @@
     "install": "cd server && npm i && cd ../client && npm i",
     "seed": "cd server && npm run seed",
     "build": "cd client && npm run build"
-    
   },
   "keywords": [],
   "author": "",
@@ -24,5 +23,8 @@
   "bugs": {
     "url": "https://github.com/Brookethorson/redux-store/issues"
   },
-  "homepage": "https://github.com/Brookethorson/redux-store#readme"
+  "homepage": "https://github.com/Brookethorson/redux-store#readme",
+  "dependencies": {
+    "@stripe/stripe-js": "^1.22.0"
+  }
 }
